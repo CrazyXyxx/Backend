@@ -1,0 +1,14 @@
+{
+  "name": "e-africa-backend",
+  "version": "1.0.0",
+  "description": "Backend API pour l'application mobile E-Africa",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Créé par David",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
